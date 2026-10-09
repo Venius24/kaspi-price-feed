@@ -1,0 +1,35 @@
+kaspi-price-feed
+Copyright (c) 2026 Venius24
+Original project: BuyShark
+Source: https://github.com/Venius24/kaspi-price-feed
+
+The current version is licensed under the GNU Affero General Public License,
+version 3 only (AGPL-3.0-only). The complete, unmodified license is in LICENSE.
+
+Additional attribution term under AGPLv3 section 7(b)
+--------------------------------------------------
+For material in this project whose copyright is held by Venius24, preserve
+the above copyright, original-project and source attribution notices in that
+material and in the Appropriate Legal Notices displayed by works containing
+it. Include this NOTICE with copies of the covered material.
+
+A compact equivalent attribution in an existing About, Legal, Licenses or
+Third-party notices page is acceptable:
+
+    Uses kaspi-price-feed from BuyShark by Venius24.
+    https://github.com/Venius24/kaspi-price-feed
+    Licensed under AGPL-3.0-only; see LICENSE and NOTICE.
+
+This term requires preservation of reasonable author attribution and legal
+notices. It does not require an advertising banner on every page, imply
+endorsement by the author, or grant rights to the BuyShark name or logo.
+Recipients may identify their own modifications and add their own credits.
+
+This notice does not replace the source-code, network-interaction or other
+requirements of AGPLv3. See LICENSE, especially sections 4, 5, 7 and 13.
+
+License transition
+------------------
+Version 0.1.0 in commit 3d0a5ff2eb5bbfa0d6238a1674f1e511443dd561 was published
+under MIT. This change applies to the current version and does not revoke
+permissions previously granted for that earlier MIT release.

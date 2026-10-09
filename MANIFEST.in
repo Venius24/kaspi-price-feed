@@ -1,0 +1,3 @@
+include LICENSE NOTICE README.md AGENTS.md CLAUDE.md
+recursive-include examples *.py
+recursive-include tests *.py *.xml

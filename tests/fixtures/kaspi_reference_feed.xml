@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-08-14 23:58">
+    <company>10000001</company>
+    <merchantid>10000001</merchantid>
+    <offers>
+        <offer sku="DEMO-051">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="64.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-076">
+            <model>Demo product </model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="100.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1118</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-020">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="13.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-053">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="15.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-010">
+            <model>Demo product </model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-047">
+            <model/>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="72.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-0469">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="56.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-008">
+            <model>Demo product </model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="45.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">592</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-081">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="31.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">279</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-032">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="78.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-001">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-024">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="218.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-049 2 шт">
+            <model>Demo product </model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="15.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">3500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-040">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="44.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-026">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="68.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-043">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">3700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-007">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="4.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">6600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-038">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-060 Набор воздушных шаров">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="85.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-090">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="94.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-018">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">997</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-037">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-005">
+            <model>Demo product </model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-052">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="13.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-050">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="60.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-036">
+            <model>Demo product ""</model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="187.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-002">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-042">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="89.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="572743597">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="107.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-048">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-041">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="100.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-004">
+            <model>Demo product </model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="40.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1498</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-0463">
+            <model/>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="9.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-011">
+            <model>Demo product </model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="15.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2499</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-016">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="23.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">788</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-006">
+            <model>Demo product </model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="12.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-085">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="23.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-035">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="155.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-068">
+            <model>Demo product </model>
+            <brand>demobrand</brand>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="1817.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="DEMO-012">
+            <model>Demo product &amp;</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="10000001_001" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2500</cityprice>
+            </cityprices>
+        </offer>
+    </offers>
+</kaspi_catalog>

@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kaspi-price-feed"
+version = "0.2.0"
+description = "Kaspi XML price-feed planning, upload and reconciliation extracted from BuyShark"
+requires-python = ">=3.10"
+license = "AGPL-3.0-only"
+license-files = ["LICENSE", "NOTICE"]
+readme = "README.md"
+authors = [{name = "Venius24"}]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "build>=1"]
+
+[project.urls]
+Repository = "https://github.com/Venius24/kaspi-price-feed"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
